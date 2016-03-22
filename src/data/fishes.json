@@ -1,0 +1,9 @@
+{
+	"bluefish":{"sx":0,"sy":0,"tileW":28,"tileH":28, "frames":12},
+	"yellowfish":{"sx":0,"sy":28,"tileW":28,"tileH":28, "frames":12},
+	"greenfish":{"sx":0,"sy":56,"tileW":28,"tileH":28, "frames":12},
+	"frog":{"sx":0,"sy":84,"tileW":28,"tileH":28, "frames":12},
+	"manta":{"sx":0,"sy":112,"tileW":28,"tileH":28, "frames":12},
+	"snake":{"sx":0,"sy":140,"tileW":28,"tileH":28, "frames":12},
+	"redfish":{"sx":0,"sy":168,"tileW":28,"tileH":28, "frames":12}	
+}
